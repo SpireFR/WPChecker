@@ -1,0 +1,3 @@
+# WPChecker
+
+Check WordPress version.
